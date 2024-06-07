@@ -3,6 +3,8 @@
 
 # In[1]:
 
+pip install tensorflow
+
 
 import streamlit as st
 import json
