@@ -1,0 +1,6 @@
+streamlit==0.88.0
+tensorflow==2.6.0
+Pillow==8.3.2
+numpy==1.21.2
+pandas==1.3.3
+opencv-python==4.5.3.56
